@@ -13,6 +13,7 @@ This repository contains the analysis, evaluation, and documentation of the 2012
 - `average_hourly_wage_per_household.csv`: Data file used for calculating the average hourly wage per household, integral to the project's economic analysis.
 - `2.1 CBA lectures.xlsx`: Reference material that provides additional context and support for the CBA exercise and project evaluation.
 - `Data Dictionary - DVRPC_HTS_Data_Dictionary.xlsx`: A crucial guide to understanding the survey data fields and variables.
+- `no_trip_reasons_percentage.csv` and `output_characteristics.csv`: Coding output files for double check. 
 - `Data`:
   - `1_Household_Public.csv`: Household data extracted from the 2012 survey.
   - `2_Person_Public.csv`: Individual person data detailing demographics, travel patterns, and other relevant information from the survey.
