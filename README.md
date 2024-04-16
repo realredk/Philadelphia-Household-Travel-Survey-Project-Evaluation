@@ -1,5 +1,6 @@
+<div align="justify">
 
-# README: Philadelphia Household Travel Survey Project Evaluation
+# Philadelphia Household Travel Survey Project Evaluation
 
 ## Overview
 
